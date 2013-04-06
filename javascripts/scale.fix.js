@@ -15,3 +15,5 @@ function gestureStart() {
     }
   }
 }
+
+console.log('hey!')
