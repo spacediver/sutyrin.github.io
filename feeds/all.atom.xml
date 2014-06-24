@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Павел Сутырин</title><link href="http://sutyrin.pro/" rel="alternate"></link><link href="http://sutyrin.pro/feeds/all.atom.xml" rel="self"></link><id>http://sutyrin.pro/</id><updated>2014-06-24T04:35:18+02:00</updated><entry><title>Здравствуйте!</title><link href="http://sutyrin.pro/zdravstvuite.html" rel="alternate"></link><updated>2014-06-24T04:35:18+02:00</updated><author><name>Павел Сутырин</name></author><id>tag:sutyrin.pro,2014-06-24:zdravstvuite.html</id><summary type="html">&lt;img alt="" class="portrait align-left" src="/images/pavel_400.jpeg" /&gt;
+&lt;p&gt;Меня зовут Павел Сутырин.&lt;/p&gt;
+&lt;p&gt;Я программист, специализируюсь на веб-разработке и системном
+администриовании (Linux).&lt;/p&gt;
+&lt;p&gt;Родился и живу в Москве.&lt;/p&gt;
+&lt;p&gt;Несколько лет программировал в небольшой фирме, с 2010 года работаю &lt;span class="strike"&gt;на себя&lt;/span&gt; на Клиентов.&lt;/p&gt;
+</summary></entry></feed>
