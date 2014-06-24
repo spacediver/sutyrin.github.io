@@ -164,3 +164,11 @@ figure.floatcenter, .align-center {
 .col-xs-10 {
     color: #bbb;
 }
+
+img.portrait {
+    padding: 0px 15px 0px 0px;
+}
+
+.strike {
+      text-decoration: line-through;
+}
