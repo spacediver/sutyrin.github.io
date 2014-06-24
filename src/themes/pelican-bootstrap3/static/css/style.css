@@ -19,7 +19,18 @@ body {
 }
 
 .list-group-item {
+    padding: 0 0 5px 0;
     border: none;
+}
+
+#sidebar {
+    width: auto;
+    margin: auto;
+}
+
+ul.list-group {
+    padding: 10px 10px 5px 5px;
+    margin: auto;
 }
 
 .tag-1 {

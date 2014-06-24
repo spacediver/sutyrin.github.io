@@ -61,6 +61,33 @@
                     </ul>
                 </li>    
             {% endif %}
+
+            {% if DISPLAY_CONTACTS_ON_SIDEBAR %}
+                <li class="list-group-item">
+                <center><b>Контакты</b></center>
+                    <ul class="list-group" id="tags">
+                        <li class="list-group-item">
+                            <img src="{{ SITEURL }}/images/gmail.png" />
+                            <a href="mailto:pavel@sutyrin.pro">
+                                pavel@sutyrin.pro
+                            </a>
+                        </li>
+                        <li class="list-group-item">
+                            <img src="{{ SITEURL }}/images/skype.png" />
+                            <a href="skype:pavel_sutyrin?chat">
+                                pavel_sutyrin
+                            </a>
+                        </li>
+                        <li class="list-group-item">
+                            <img src="{{ SITEURL }}/images/phone.png" />
+                            <a href="tel:+79035927687">
+                                +7 903 592 76 87
+                            </a>
+                        </li>
+                    </ul>
+                </li>    
+            {% endif %}
+
             {% include 'includes/github.html' %}
             {% include 'includes/links.html' %}
 
