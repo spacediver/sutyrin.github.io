@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Павел Сутырин</title><link href="http://sutyrin.pro/" rel="alternate"></link><link href="http://sutyrin.pro/feeds/misc.atom.xml" rel="self"></link><id>http://sutyrin.pro/</id><updated>2014-09-12T20:24:28+02:00</updated><entry><title>Здравствуйте!</title><link href="http://sutyrin.pro/zdravstvuite.html" rel="alternate"></link><updated>2014-09-12T20:24:28+02:00</updated><author><name>Павел Сутырин</name></author><id>tag:sutyrin.pro,2014-09-12:zdravstvuite.html</id><summary type="html">&lt;img alt="" class="portrait align-left" src="/images/pavel_400.jpeg" /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Павел Сутырин</title><link href="http://sutyrin.pro/" rel="alternate"></link><link href="http://sutyrin.pro/feeds/misc.atom.xml" rel="self"></link><id>http://sutyrin.pro/</id><updated>2014-09-12T20:29:46+02:00</updated><entry><title>Здравствуйте!</title><link href="http://sutyrin.pro/zdravstvuite.html" rel="alternate"></link><updated>2014-09-12T20:29:46+02:00</updated><author><name>Павел Сутырин</name></author><id>tag:sutyrin.pro,2014-09-12:zdravstvuite.html</id><summary type="html">&lt;img alt="" class="portrait align-left" src="/images/pavel_400.jpeg" /&gt;
 &lt;p&gt;Меня зовут Павел Сутырин.&lt;/p&gt;
-&lt;p&gt;Я программист, специализируюсь на веб-разработке и системном администрировании (Linux). Почитайте о моих &lt;a class="reference external" href="http://sutyrin.pro/pages/moi-proekty.html"&gt;проектах&lt;/a&gt;, подумайте, &lt;a class="reference external" href="http://sutyrin.pro/pages/chto-dlia-vas.html"&gt;что я могу для вас сделать&lt;/a&gt; и кликните слева, чтобы связаться со мной.&lt;/p&gt;
+&lt;p&gt;Я программист, специализируюсь на веб-разработке и системном
+администрировании (Linux). Почитайте о моих &lt;a class="reference external" href="http://sutyrin.pro/pages/moi-proekty.html"&gt;проектах&lt;/a&gt;, посмотрите, &lt;a class="reference external" href="http://sutyrin.pro/pages/chto-dlia-vas.html"&gt;что я могу для
+вас сделать&lt;/a&gt; и кликните
+слева, чтобы связаться со мной.&lt;/p&gt;
 &lt;p&gt;Hi. I am Pavel Sutyrin.&lt;/p&gt;
 &lt;p&gt;I'm a software engineer, mostly do web development and system administration (Linux).&lt;/p&gt;
 </summary></entry></feed>
