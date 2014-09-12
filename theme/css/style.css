@@ -172,3 +172,7 @@ img.portrait {
 .strike {
       text-decoration: line-through;
 }
+
+a {
+    color: blue;
+}
